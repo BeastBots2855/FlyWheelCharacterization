@@ -1,2 +1,2 @@
 ﻿# FlyWheelCharacterization
-An easily copyable repository to calculate flyWheelFeedForwards
+An easily copyable repository to calculate FlyWheelFeedForwards
